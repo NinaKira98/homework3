@@ -43,5 +43,5 @@ const compare = function (num1, num2) {
 };
 
 const firstTy = function (val1, val2, val3) {
-	return val1 || val2 || val3;
+	return val1 || val2 || val3 || false;
 };
